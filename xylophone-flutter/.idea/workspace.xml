@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b9ed5c1c-7d53-4bf0-b419-4ce73abf5db1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_6_API_27" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="219">
+              <caret line="31" column="58" lean-forward="true" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/lib/main.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xylophone-flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xylophone-flutter" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xylophone-flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="xylophone-flutter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="Dart Packages" type="3dd79eb:DartTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" singleton="false">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b9ed5c1c-7d53-4bf0-b419-4ce73abf5db1" name="Default Changelist" comment="" />
+      <created>1581067408717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581067408717</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.32980332" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Dart Analysis" weight="0.3289689" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Run" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" weight="0.3289689" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Flutter Performance" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="31" column="58" lean-forward="true" selection-start-line="31" selection-start-column="58" selection-end-line="31" selection-end-column="58" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
